@@ -1,0 +1,34 @@
+.contenedor {
+  flex-direction: column;
+}
+.col-md-4 {
+  margin-bottom: 20px;
+}
+
+.category {
+  margin-bottom: 20px;
+}
+
+.activado {
+  color: black;
+  font-weight: 500;
+}
+
+.card-filter > ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+div.card-filter > ul .filter {
+  margin-right: 20px;
+}
+
+.card img {
+  height: 200px;
+  width: auto;
+}
+
+.card {
+  overflow: hidden;
+}
